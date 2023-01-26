@@ -1,0 +1,26 @@
+
+body{
+
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: lawngreen;
+
+  }
+
+ 
+
+  h1 {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+       
+  }
+
+  p{
+     
+   color: rgb(0, 0, 0);
+
+
+
+  }

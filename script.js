@@ -7,7 +7,7 @@ let resultado= document.querySelector
 switch(moeda){
   
 case 'dollar':
-calculo = valor * 5.09
+calculo = valor * 5.14
 resultado.innerHTML = `$${valor} é igual a R$ ${calculo}`
 break
   

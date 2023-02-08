@@ -7,27 +7,27 @@ let resultado= document.querySelector
 switch(moeda){
   
 case 'dollar':
-calculo = valor * 5.14
+calculo = valor * 5.23
 resultado.innerHTML = `$${valor} é igual a R$ ${calculo}`
 break
   
 case 'euro':
-calculo = valor * 5.54
+calculo = valor * 5.59
 resultado.innerHTML = `€${valor} é igual a R$ ${calculo}`
 break  
   
 case 'libra':
-calculo = valor * 6.25
+calculo = valor * 6.32
 resultado.innerHTML = `£${valor} é igual a R$ ${calculo}`
 break
   
 case 'ienes':
-calculo = valor * 0.039
+calculo = valor * 0.040
 resultado.innerHTML = `¥${valor} é igual a R$ ${calculo}`
 break
 
 case 'dollar aus':
-calculo = valor * 3.59
+calculo = valor * 3.62
 resultado.innerHTML = `AU$        ${valor} é igual a R$ ${calculo}`
 break
   

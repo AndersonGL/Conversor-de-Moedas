@@ -12,12 +12,12 @@ resultado.innerHTML = `$${valor} é igual a R$ ${calculo}`
 break
   
 case 'euro':
-calculo = valor * 5.59
+calculo = valor * 5.58
 resultado.innerHTML = `€${valor} é igual a R$ ${calculo}`
 break  
   
 case 'libra':
-calculo = valor * 6.32
+calculo = valor * 6.28
 resultado.innerHTML = `£${valor} é igual a R$ ${calculo}`
 break
   
